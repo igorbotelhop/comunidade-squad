@@ -1,0 +1,16 @@
+packages:
+  "framer-motion": "For smooth scroll and reveal animations"
+  "@radix-ui/react-accordion": "For the FAQ section accordion"
+  "@radix-ui/react-slot": "For the Button component asChild prop"
+  "clsx": "Utility for Tailwind classes"
+  "tailwind-merge": "Utility for Tailwind classes"
+  "lucide-react": "For UI icons across the landing page"
+
+images:
+  - path: "artifacts/squad-page/public/images/hero-bg.png"
+    description: "Elegant, premium, sophisticated abstract background in deep warm tones, very subtle burgundy and dark gold lighting, soft elegant gradient mesh"
+    aspect_ratio: "16:9"
+
+notes:
+  - Static landing page, no backend integration required.
+  - All "Quero fazer parte agora" CTAs point externally to Hotmart.
